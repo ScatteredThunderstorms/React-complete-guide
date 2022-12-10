@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07487c84-d3a2-406d-8c49-7db97fdb9872" name="Changes" comment="Section 5 completed" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="goal-setting_app" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IHWNkeudrUZ4CjbjHOq1p9yoqt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ace/OneDrive/Uni/Personal Learning/React/01-starting-setup/01-starting-setup&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\Ace\\AppData\\Roaming\\npm\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ace\OneDrive\Uni\Personal Learning\React\01-starting-setup\01-starting-setup\src\component\Expenses" />
+      <recent name="C:\Users\Ace\OneDrive\Uni\Personal Learning\React\01-starting-setup\01-starting-setup\src\component\UI" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07487c84-d3a2-406d-8c49-7db97fdb9872" name="Changes" comment="" />
+      <created>1669838950219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669838950219</updated>
+      <workItem from="1669838951420" duration="36737000" />
+      <workItem from="1669925376911" duration="2107000" />
+      <workItem from="1669968184170" duration="7610000" />
+      <workItem from="1670255308276" duration="5155000" />
+      <workItem from="1670309610730" duration="9977000" />
+      <workItem from="1670662083774" duration="85000" />
+      <workItem from="1670663502768" duration="545000" />
+      <workItem from="1670664074989" duration="236000" />
+    </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1669839896545</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669839896545</updated>
+    </task>
+    <task id="LOCAL-00002" summary="npm install">
+      <created>1669841222229</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669841222229</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new components">
+      <created>1669884290816</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669884290816</updated>
+    </task>
+    <task id="LOCAL-00004" summary="reorg files, completed sec 3">
+      <created>1669977278170</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669977278170</updated>
+    </task>
+    <task id="LOCAL-00005" summary="implemented new button event">
+      <created>1669982498096</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669982498096</updated>
+    </task>
+    <task id="LOCAL-00006" summary="unversioned files">
+      <created>1669999953012</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669999953013</updated>
+    </task>
+    <task id="LOCAL-00007" summary="completed assignment 2">
+      <created>1670265601059</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670265601059</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Section 5 completed">
+      <created>1670321500951</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670321500951</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="init commit" />
+    <MESSAGE value="npm install" />
+    <MESSAGE value="new components" />
+    <MESSAGE value="reorg files, completed sec 3" />
+    <MESSAGE value="implemented new button event" />
+    <MESSAGE value="unversioned files" />
+    <MESSAGE value="completed assignment 2" />
+    <MESSAGE value="Section 5 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 5 completed" />
+  </component>
+</project>
